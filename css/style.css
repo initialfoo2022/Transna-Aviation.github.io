@@ -254,6 +254,7 @@ head {
 .about,
 .service,
 .project,
+.bod,
 .contact {
   padding: 8rem 7% 1.4rem;
 }
@@ -261,6 +262,7 @@ head {
 .about h2,
 .service h2,
 .project h2,
+.bod h2,
 .contact h2 {
   text-align: center;
   font-size: 2.6rem;
@@ -270,6 +272,7 @@ head {
 .about h2 span,
 .service h2 span,
 .project h2 span,
+.bod h2 span,
 .contact h2 span {
   color: #fc0e06;
 }
@@ -342,6 +345,7 @@ head {
 
 /* project section */
 .project h2,
+.bod,
 .contact h2 {
   margin-bottom: 1rem;
 }
